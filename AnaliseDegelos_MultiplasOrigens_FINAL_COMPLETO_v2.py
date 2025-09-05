@@ -18,9 +18,9 @@ COLOR_BG   = "#E8E8E8"
 
 # ─── Verificar se os arquivos existem ────────────────────────────────────────
 ARQUIVOS = {
-    "Câmara de Congelados": r"C:\Users\elielton.polityto\Desktop\Relatorio_Muffato\AIDA\Relatorio_Muffato\CamaraCongelados\Dados Ambiente\18-06 a 02-07\Dados_CamCongelados.xlsx",
-    "Step-in Master":       r"C:\Users\elielton.polityto\Desktop\Relatorio_Muffato\AIDA\Relatorio_Muffato\StepinMaster\Dados Ambiente\18-06 a 02-07\Dados_StepinMaster.xlsm",
-    "Step-in Slave":        r"C:\Users\elielton.polityto\Desktop\Relatorio_Muffato\AIDA\Relatorio_Muffato\StepinSlave\Dados Ambiente\18-06 a 02-07\Dados_StepinSlave.xlsm",
+    "Câmara de Congelados": r"C:\Users\elielton.polityto\Desktop\Python\GitHub\Estudo_Curitiba_1\CamaraCongelados\Dados Ambiente\18-06 a 02-07\Dados_CamCong.xlsm.xlsx",
+    "Step-in Master":       r"C:\Users\elielton.polityto\Desktop\Python\GitHub\Estudo_Curitiba_1\StepinMaster\Dados Ambiente\18-06 a 02-07\Dados_StepinMaster.xlsm",
+    "Step-in Slave":        r"C:\Users\elielton.polityto\Desktop\Python\GitHub\Estudo_Curitiba_1\StepinSlave\Dados Ambiente\18-06 a 02-07\Dados_StepinSlave.xlsm",
 }
 
 # Verificar quais arquivos existem
